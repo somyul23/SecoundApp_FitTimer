@@ -90,4 +90,39 @@ FitTimerは、運動効率を向上させるために開発されたiOSタイマ
 
 ## 📸 Screenshots
 
-※ スクリーンショットを追加してください
+## ⏱️ タバタタイマー
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/4edc281a-bb98-4e6d-af3a-f186593a4c93" />
+
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/b384de25-c7d6-4ec5-92a4-5cab3d0bb9d8" />
+
+</p>
+
+---
+
+## 🏋️ セットタイマー（主要機能）
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/ef8de47b-bcb4-43cc-a8ba-0d6dafe1bf3c" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/ff311643-7672-4a40-bda3-8979160bde9a" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/ab494a7c-583d-449b-91fb-2aab5e9f00f1" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/4bec8a50-94ff-46eb-8e4c-dd338c8fee0d" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/889e293d-1f5a-4948-9579-bb1554c9ef94" />
+
+
+
+
+</p>
+
+---
+
+## 📊 運動記録・統計
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/39d9a6a0-5405-4a01-9e71-4cc619ca0620" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/82ed92a4-d5c3-435f-b64d-a4f43911308e" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/beb2e573-00a8-47a4-9807-d5381229d75e" />
+
+
+</p>
